@@ -1,0 +1,7 @@
+{
+  "21": "FTP (non chiffré, vulnérable)",
+  "23": "Telnet (obsolète et non sécurisé)",
+  "445": "SMB (exploitable via EternalBlue)",
+  "3389": "RDP (souvent ciblé)",
+  "139": "NetBIOS (ancien protocole réseau)"
+}
