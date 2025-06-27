@@ -1,5 +1,9 @@
 import streamlit as st
 import scanner
+import os
+
+os.environ["PATH"] += os.pathsep + "/usr/bin"
+
 
 st.set_page_config(page_title="Scanner de vulnérabilités", layout="centered")
 
