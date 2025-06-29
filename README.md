@@ -19,7 +19,3 @@ Ce projet est un outil simple pour scanner un réseau local à la recherche de s
 ## ⚠️ Hébergement
 
 Cette application nécessite le programme système `nmap`, ce qui n'est pas compatible avec l’environnement Heroku ou Streamlit Cloud.
-
-Une démonstration est disponible ici :
-
-🔗 [Vidéo de démonstration]([https://drive.google.com/...](https://youtu.be/AHYcM0eytTE))  
